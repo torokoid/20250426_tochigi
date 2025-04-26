@@ -211,7 +211,7 @@ p.note { display: none; }
 
    
 <br><br>
-<h2><span class="yellow">今日のBGMは Emotional Slow Rock Songs for Heartbreak Nights 🌧️ | Best Picks</span></h2>
+<h2><span class="yellow">今日のBGMは Emotional Slow Rock Songs for Heartbreak Nights 🌧️ | Best Picks<br>画像クリックでYouTubeに飛びます</span></h2>
 <a href="https://youtu.be/3DftB6iGd5s?si=t12gCQvfB8UhIcUl" target="_blank"><img src="20250426_003.png" alt="サンプル画像" width="900" /></a>
 <br>
 
