@@ -175,6 +175,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">景色が良いので動画も撮影しました<br>次の2枚は画像クリックで動画再生します</span></h2>
 <a href="20250426_001.MOV" target="_blank"><img src="20250426_001.png" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">畑の上を吹き抜ける風が爽やか</span></h2>
 <a href="20250426_002.MOV" target="_blank"><img src="20250426_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">周囲の田んぼは田植えの準備中</span></h2>
